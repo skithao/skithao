@@ -1,8 +1,8 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=consolas&weight=100&size=45&duration=4000&pause=4000&center=true&vCenter=true&multiline=true&width=720&height=70&lines=Welcome+to+know+about+Sunsky" alt="Typing SVG" />
-    <br><br><br>
+    <br><br>
     <img src="https://profile-counter.glitch.me/skithao/count.svg" alt="Visitor Count" />
-    <br>
+    <br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=skithao&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skithao&theme=radical" alt="Top Langs" />
     <br>
