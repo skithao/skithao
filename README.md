@@ -42,7 +42,7 @@
 ## 🌟 Acknowledgments
 - A big shoutout to everyone who has supported and helped me along the way. You're the wind beneath my code.
 - I hope my code can be of service to you. Wishing you a joyful life and smooth coding sessions!
-
+  
 ---
 
 ## 🛠️ Languages:
@@ -72,5 +72,10 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white) 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=skithao&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+ <tr>
+ <td>Just a joke</td>
+ <td style="padding-top:4px"><img src = "https://readme-jokes.vercel.app/api?theme=halloween"></td>
+ </tr>
 
 ---
