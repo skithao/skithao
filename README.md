@@ -1,11 +1,14 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=consolas&weight=100&size=45&duration=4000&pause=4000&center=true&vCenter=true&multiline=true&width=720&height=70&lines=Welcome+to+know+about+skithao" alt="Typing SVG" />
-    <br>
+    <img src="https://readme-typing-svg.herokuapp.com?font=consolas&weight=100&size=45&duration=4000&pause=4000&center=true&vCenter=true&multiline=true&width=720&height=70&lines=Welcome+to+know+about+Sunsky" alt="Typing SVG" />
+    <br><br><br>
     <img src="https://profile-counter.glitch.me/skithao/count.svg" alt="Visitor Count" />
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=skithao&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skithao&theme=radical" alt="Top Langs" />
+    <br>
 </p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=skithao&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📚 Education
 - **Sophomore** at Qinghai University's School of Computer Science
@@ -70,8 +73,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white) 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white) 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=skithao&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  <tr>
  <td>Just a joke</td>
