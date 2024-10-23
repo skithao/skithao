@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=consolas&weight=100&size=45&duration=4000&pause=4000&center=true&vCenter=true&multiline=true&width=720&height=70&lines=Welcome+to+know+about+Sunsky" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=consolas&weight=100&size=45&duration=4000&pause=4000&center=true&vCenter=true&multiline=true&width=760&height=70&lines=Welcome+to+know+about+Sunsky" alt="Typing SVG" />
     <br><br>
     <img src="https://profile-counter.glitch.me/skithao/count.svg" alt="Visitor Count" />
     <br><br>
