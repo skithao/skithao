@@ -3,8 +3,8 @@
     <br><br>
     <img src="https://profile-counter.glitch.me/skithao/count.svg" alt="Visitor Count" />
     <br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=skithao&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skithao&theme=radical" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=skithao&count_private=true&show_icons=true&theme=radical&card_width=500&line_height=34&include_all_commits=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skithao&theme=radical&card_width=500&line_height=34&langs_count=8&count_private=true&layout=compact" alt="Top Langs" />
     <br>
 </p>
 
