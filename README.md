@@ -4,7 +4,7 @@
     <img src="https://profile-counter.glitch.me/skithao/count.svg" alt="Visitor Count" />
     <br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=skithao&count_private=true&show_icons=true&theme=radical&line_height=24&include_all_commits=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skithao&theme=radical&&langs_count=8&layout=compact" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skithao&theme=radical&card_width=350&langs_count=8&layout=compact" alt="Top Langs" />
     <br>
 </p>
 
