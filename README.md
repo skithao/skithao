@@ -61,13 +61,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) 
 
 ## 🛠️ Tools:
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) 
-![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=Gitee&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) 
+![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=Gitee&logoColor=white) 
 ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white) 
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) 
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white) 
 
 ## 💻 Environment:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white) 
